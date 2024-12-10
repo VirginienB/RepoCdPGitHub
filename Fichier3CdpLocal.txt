@@ -1,1 +1,2 @@
 texte 1 du fichier 3
+texte 2 du fichier 3
